@@ -34,7 +34,7 @@ Check out my repositories for more!
 
 ## 📫 Get in Touch
 
-- **GitHub:** https://github.com/Balck-Adam001
+- **GitHub:** https://github.com/MohamadKamardin1
 - **Email:** focusinzanzibar@outlook.com
 - **LinkedIn:** Black-Adam001
 
