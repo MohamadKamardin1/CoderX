@@ -31,7 +31,7 @@
 ```javascript
 const mohamad = {
   name: "Mohamad Kamardin",
-  alias: "Balck-Adam001",
+  alias: "MohamadKamardin1",
   location: "🌊 Zanzibar, Tanzania",
   role: "Full-Stack Developer",
   currently: [
